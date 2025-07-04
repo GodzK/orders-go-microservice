@@ -1,16 +1,11 @@
 # Order Microservices
 
-This project is a demo microservices for my students.
 
 ## VS Code Extensions
 
 - for Dababase connection: mtxr.sqltools-driver-mysql
 - for API testing: humao.rest-client
 
-## Materials
-
-Please visit https://eforexcel.com/wp/downloads-18-sample-csv-files-data-sets-for-testing-sales/
-and download sample data for orderfe.
 
 ## How it works
 
